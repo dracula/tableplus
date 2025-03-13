@@ -1,20 +1,23 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [TablePlus](https://tableplus.com)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [TablePlus](https://tableplus.com).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+1. Open TablePlus
+2. _TablePlus > Preferences > Fonts & Colors_
+3. _Right click > Import Theme_
+4. _Select the `DraculaTheme.tableplustheme` file._
 
 ## Team
+****
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/tableplus/graphs/contributors).
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
-
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![Simon Krull](https://github.com/crydotsnake.png?size=100)](https://github.com/crydotsnake) | [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
+| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Simon Krull](https://github.com/crydotsnake)                                             | [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
 
 ## Community
 
